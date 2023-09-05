@@ -24,9 +24,9 @@ const Services = () => {
       <div className="container">
 
         <h2 className={s.title}>
-          НАШИ УСЛУГИ
+          OUR SERVICES
         </h2>
-        <p className={s.text}>Мы предлагаем решение широкого спектра IT задач для вашего бизнеса</p>
+        <p className={s.text}>We offer solutions to a wide range of IT tasks for your business</p>
 
         <div className={s.sliderWrapper}>
           <Swiper className={s.slider}
@@ -93,3 +93,5 @@ const Services = () => {
 };
 
 export default Services;
+
+

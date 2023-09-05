@@ -2,26 +2,26 @@ export const mockServices = [
   {
     name: 'VPS',
     price: 12000,
-    perWhat: 'месяц',
+    perWhat: 'month',
     features: [
       {
-        featureName: '<b>1</b>&nbsp;ядро',
+        featureName: '<b>1</b>&nbsp;core',
         active: true
       },
       {
-        featureName: 'Бесплатный SSL',
+        featureName: 'Free SSL',
         active: true
       },
       {
-        featureName: 'Тестовый период&nbsp;<b>10 дней</b>',
+        featureName: 'Test period&nbsp;<b>10 days</b>',
         active: true
       },
       {
-        featureName: 'Память&nbsp;<b>1GB</b>',
+        featureName: 'Memory&nbsp;<b>1GB</b>',
         active: true
       },
       {
-        featureName: 'Увеличенная производительность',
+        featureName: 'Increased productivity',
         active: false
       },
     ]
@@ -30,26 +30,26 @@ export const mockServices = [
   {
     name: 'VDS',
     price: 20000,
-    perWhat: 'месяц',
+    perWhat: 'month',
     features: [
       {
-        featureName: '<b>2</b>&nbsp;ядра',
+        featureName: '<b>2</b>&nbsp;cores',
         active: true
       },
       {
-        featureName: 'Бесплатный SSL',
+        featureName: 'Free SSL',
         active: true
       },
       {
-        featureName: 'Тестовый период&nbsp;<b>10 дней</b>',
+        featureName: 'Test period&nbsp;<b>10 days</b>',
         active: true
       },
       {
-        featureName: 'Память&nbsp;<b>5GB</b>',
+        featureName: 'Memory&nbsp;<b>5GB</b>',
         active: true
       },
       {
-        featureName: 'Увеличенная производительность',
+        featureName: 'Increased productivity',
         active: true
       },
     ]
@@ -58,46 +58,46 @@ export const mockServices = [
   {
     name: 'VPN',
     price: 15000,
-    perWhat: 'месяц',
+    perWhat: 'month',
     features: [
       {
-        featureName: 'Неограниченная пропускная способность ',
+        featureName: 'Unlimited bandwidth',
         active: true
       },
       {
-        featureName: 'Высокая скорость просмотра',
+        featureName: 'High viewing speed',
         active: true
       },
       {
-        featureName: 'Подключение&nbsp;<b>до 10</b> устройств к одному аккаунту',
+        featureName: 'Connect &nbsp;<b>up to 10</b> devices to one account',
         active: true
       },
     ]
   },
 
   {
-    name: 'Email сервис',
+    name: 'Email service',
     price: 10000,
-    perWhat: 'месяц',
+    perWhat: 'month',
     features: [
       {
-        featureName: 'Писем в месяц&nbsp;<b>до 1500</b>',
+        featureName: 'Letters per month&nbsp;<b>up to 1500</b>',
         active: true
       },
       {
-        featureName: 'Контактов&nbsp;<b>до 100</b>',
+        featureName: 'Contacts&nbsp;<b>up to 100</b>',
         active: true
       },
       {
-        featureName: 'Тестовый период&nbsp;<b>10 дней</b>',
+        featureName: 'Test period&nbsp;<b>10 days</b>',
         active: true
       },
       {
-        featureName: 'Поддержка&nbsp;<b>24/7</b>',
+        featureName: 'Support&nbsp;<b>24/7</b>',
         active: true
       },
       {
-        featureName: 'Проверка технических настроек',
+        featureName: 'Checking technical settings',
         active: false
       },
 
@@ -105,28 +105,28 @@ export const mockServices = [
   },
 
   {
-    name: 'Карточка №5',
+    name: 'Card №5',
     price: 100000,
-    perWhat: 'год',
+    perWhat: 'year',
     features: [
       {
-        featureName: 'Писем в месяц&nbsp;<b>до 1500</b>',
+        featureName: 'Letters per month&nbsp;<b>up to 1500</b>',
         active: true
       },
       {
-        featureName: 'Контактов&nbsp;<b>до 100</b>',
+        featureName: 'Contacts&nbsp;<b>up to 100</b>',
         active: true
       },
       {
-        featureName: 'Тестовый период&nbsp;<b>10 дней</b>',
+        featureName: 'Test period&nbsp;<b>10 days</b>',
         active: true
       },
       {
-        featureName: 'Поддержка&nbsp;<b>24/7</b>',
+        featureName: 'Support&nbsp;<b>24/7</b>',
         active: true
       },
       {
-        featureName: 'Проверка технических настроек',
+        featureName: 'Checking technical settings',
         active: false
       },
     ]

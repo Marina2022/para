@@ -25,7 +25,7 @@ const ServicesCard = ({name, price, perWhat, features}) => {
           })
         }
       </ul>
-      <OrderButton text={"Заказать"} classname={s.cardBtn} />
+      <OrderButton text={"Order now"} classname={s.cardBtn} />
     </div>
   );
 };

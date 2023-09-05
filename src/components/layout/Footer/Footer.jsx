@@ -14,7 +14,7 @@ const Footer = () => {
           <Logo classname={s.logo}/>
           <Menu classname={s.menu} />
           <Phone classname={s.phone}/>
-          <div className={s.copy}>Все права защищены ©2023</div>
+          <div className={s.copy}>All rights reserved ©2023</div>
           <Socials classname={s.socials}/>
         </div>
       </div>

@@ -17,7 +17,7 @@ const Articles = () => {
   return (
     <div className={s.articles}>
       <div className="container">
-        <h2 className={s.title}>СТАТЬИ</h2>
+        <h2 className={s.title}>ARTICLES</h2>
         <ul className={s.articlesList}>
           {
             showAll && articles.map((article, index) => {

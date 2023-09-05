@@ -20,7 +20,7 @@ const Services = () => {
   const swiperRef = useRef(null)
 
   return (
-    <div className={s.services}>
+    <div className={s.services} id='services'>
       <div className="container">
 
         <h2 className={s.title}>

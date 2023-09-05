@@ -4,7 +4,7 @@ import cn from "classnames";
 
 const About = () => {
   return (
-    <div className={s.about}>
+    <div className={s.about} id='about'>
       <div className="container">
         <div className={s.wrapper}>
           <div className={s.imgWrapper}>

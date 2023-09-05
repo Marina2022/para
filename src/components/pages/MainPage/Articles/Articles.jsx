@@ -15,7 +15,7 @@ const Articles = () => {
   const [showAll, setShowAll] = useState(true)
 
   return (
-    <div className={s.articles}>
+    <div className={s.articles} id='articles'>
       <div className="container">
         <h2 className={s.title}>ARTICLES</h2>
         <ul className={s.articlesList}>
